@@ -1,7 +1,7 @@
 # Salama
 
 **Group#4 Members:**
-- Shahad Alsabui - ID: 444
+- Shahad Alsabaie  - ID: 444200061
 - Sarah Alomran - ID: 444200911
 - Reem Al Mutlaq - ID: 444200533
 - Shadn Alsaif - ID: 443201150
@@ -16,3 +16,4 @@ Modern healthcare systems face significant challenges associated with early dise
 Developing an  medical advice system that predicts diseases from patient-reported symptoms can mitigate these challenges. 
 
 The chosen dataset is suitable because it provides a comprehensive, structured, and balanced view of symptom-disease relationships. The dataset allows for training a high-capacity machine learning model capable of identifying patterns across a spectrum of conditions.
+
